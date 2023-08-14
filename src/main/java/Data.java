@@ -50,3 +50,5 @@ public class Data {
         return "Data: " + amount + " " + unit + "\nDownload Time: " + getFormattedDownloadTime();
     }
 }
+
+// every thing here is good as well
